@@ -1,0 +1,10 @@
+{
+  "description": "Effortlessly convert PDF content into a responsive web format with images in JPEG or PNG, ensuring accessibility across all devices.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
